@@ -1,5 +1,5 @@
 {
-  "empresa": "Eka Chile S.A. (Eka Chemicals Chile)",
+  "empresa": "Eka Chile S.A. (Eka Chemicals Chile / Nouryon Talcahuano)",
   "slug": "eka",
   "rubro": "Clorato de sodio, dióxido de cloro in situ y peróxido de hidrógeno para blanqueo de celulosa",
   "clasificacion": "CLIENTE FINAL",
@@ -54,15 +54,27 @@
       "nombre": "Isaac Morend Deresinsky",
       "cargo": "Gerente General",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "isaac.morend@nouryon.com",
       "telefono": "+56 41 212 9200 (planta)",
       "linkedin": "https://cl.linkedin.com/in/isaac-morend-256879b",
       "fuente": "https://snifa.sma.gob.cl/General/Descargar/1104274243"
     },
     {
+      "nombre": "Juan Francisco Mella Espinoza",
+      "cargo": "Subgerente de Operaciones (ex Jefe de Producción Eka Chile)",
+      "tipo": "subgerente_operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/juan-francisco-mella-espinoza",
+      "fuente": "https://cl.linkedin.com/in/juan-francisco-mella-espinoza"
+    },
+    {
       "nombre": "Guillermo Eugenio Ponce Vergara",
       "cargo": "Jefe de Producción",
       "tipo": "jefe_produccion",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/guillermo-eugenio-ponce-vergara-03893559",
@@ -72,10 +84,41 @@
       "nombre": "Fernando Alonso Ruiz Fuentealba",
       "cargo": "Jefe de Mantenimiento (Mecánico y Planificación)",
       "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/fernando-alonso-ruiz-fuentealba-0501a631",
       "fuente": "https://cl.linkedin.com/in/fernando-alonso-ruiz-fuentealba-0501a631"
+    },
+    {
+      "nombre": "Carla Contreras Isla",
+      "cargo": "Ingeniero Civil Químico (Producción / Calidad / Procesos / Mejora Continua)",
+      "tipo": "ingeniero_procesos",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/carla-contreras-isla",
+      "fuente": "https://cl.linkedin.com/in/carla-contreras-isla"
+    },
+    {
+      "nombre": "Javiera Ponce Capelli",
+      "cargo": "Ingeniero de Procesos",
+      "tipo": "ingeniero_procesos",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/javiera-ponce-capelli-5b6914125",
+      "fuente": "https://cl.linkedin.com/in/javiera-ponce-capelli-5b6914125"
+    },
+    {
+      "nombre": "Maximiliano Vivanco Sandoval",
+      "cargo": "Técnico Universitario en Automatización y Control / Electro-Controlista",
+      "tipo": "tecnico_automatizacion",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/mvivanco-s",
+      "fuente": "https://cl.linkedin.com/in/mvivanco-s"
     }
   ],
   "contacto_corporativo": {

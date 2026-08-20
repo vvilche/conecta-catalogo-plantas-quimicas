@@ -48,18 +48,60 @@
   ],
   "tomadores": [
     {
+      "nombre": "Cecilia Pardo Pizarro",
+      "cargo": "Gerente General",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/cecilia-pardo-pizarro-82a906185",
+      "fuente": "https://cl.linkedin.com/in/cecilia-pardo-pizarro-82a906185"
+    },
+    {
       "nombre": "Ignacio Diez",
-      "cargo": "Gerente de Operaciones",
-      "tipo": "gerente_proyectos",
+      "cargo": "Gerente de Operaciones (División Resinas)",
+      "tipo": "gerente_operaciones",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/diezignacio",
       "fuente": "https://cl.linkedin.com/in/diezignacio"
     },
     {
+      "nombre": "Marcelo Esteban Sielfeld",
+      "cargo": "Gerente División Terminales Marítimos",
+      "tipo": "gerente_terminales",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/marcelo-esteban-sielfeld-1b750626",
+      "fuente": "https://cl.linkedin.com/in/marcelo-esteban-sielfeld-1b750626"
+    },
+    {
+      "nombre": "Patricio Picand",
+      "cargo": "Gerente Terminal Marítimo Quintero",
+      "tipo": "gerente_terminal",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/patricio-picand-9990ba3b",
+      "fuente": "https://cl.linkedin.com/in/patricio-picand-9990ba3b"
+    },
+    {
+      "nombre": "Karin Guzman",
+      "cargo": "Jefa de Abastecimiento",
+      "tipo": "jefe_abastecimiento",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/karin-guzman-63953519",
+      "fuente": "https://cl.linkedin.com/in/karin-guzman-63953519"
+    },
+    {
       "nombre": "Cristóbal Naulín",
       "cargo": "Jefe de Mantenimiento y Proyectos, División Terminales Marítimos",
       "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/cristobal-naulin-12b07654",

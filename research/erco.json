@@ -43,12 +43,43 @@
   "tomadores": [
     {
       "nombre": "Luis Emiliano Canihuante Roco",
-      "cargo": "Gerente de Planta Mininco (clorato de sodio)",
+      "cargo": "Gerente de Planta Mininco (clorato de sodio; ex Gerente de Mantenimiento)",
       "tipo": "gerente_planta",
+      "rol_compra": "D",
       "correo": "lcanihuante@ercoworldwide.com",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/luis-canihuante-224921397",
       "fuente": "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=f0%2F09%2F4a8d51aa6d6700e2336fc7578ce564bdc795"
+    },
+    {
+      "nombre": "Claudio San Martín Jara",
+      "cargo": "Process Engineer (Ingeniero de Procesos)",
+      "tipo": "ingeniero_procesos",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/claudio-san-martin-jara-6a44a649",
+      "fuente": "https://cl.linkedin.com/in/claudio-san-martin-jara-6a44a649"
+    },
+    {
+      "nombre": "Manuel Canihuante Roco",
+      "cargo": "Ingeniero Civil en Obras Civiles – Jefe de Mantenimiento y Conservación, Planta Mininco",
+      "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Manuel%20Canihuante%20Roco%20ERCO",
+      "fuente": "https://es.linkedin.com/posts/erco-worldwide_workanniversary-employeeappreciation-activity-7247610455588831234-Q7SB"
+    },
+    {
+      "nombre": "José Bahamonde",
+      "cargo": "Planificador & Coordinador de Servicios, Planta Mininco",
+      "tipo": "coordinador_servicios",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jos%C3%A9%20Bahamonde%20ERCO",
+      "fuente": "https://cl.linkedin.com/posts/erco-worldwide_employeespotlight-safetyculture-erco125-activity-7037131256152657920-Zy3K"
     }
   ],
   "contacto_corporativo": {

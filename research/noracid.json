@@ -52,28 +52,71 @@
       "nombre": "Werner Wilhelm Bruno Watznauer Weller",
       "cargo": "Gerente General",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/werner-watznauer-3b49167",
-      "fuente": "https://noracid.cl/sobre-nosotros/"
+      "fuente": "https://noracid.cl/equipo/"
     },
     {
       "nombre": "Cristián Roempler M.",
       "cargo": "Gerente de Operaciones",
-      "tipo": "gerente_proyectos",
+      "tipo": "gerente_operaciones",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristi%C3%A1n%20Roempler%20Noracid",
       "fuente": "https://noracid.cl/equipo/"
     },
     {
+      "nombre": "Rodrigo Candia S.",
+      "cargo": "Gerente de Administración y Finanzas",
+      "tipo": "gerente_adm_finanzas",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rodrigo-candia-b591a424",
+      "fuente": "https://cl.linkedin.com/in/rodrigo-candia-b591a424"
+    },
+    {
+      "nombre": "Rodolfo Miranda",
+      "cargo": "Jefe de Proyectos e Ingeniería (Planta de Ácido Sulfúrico)",
+      "tipo": "jefe_ingenieria",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rodolfomirandapmp",
+      "fuente": "https://cl.linkedin.com/in/rodolfomirandapmp"
+    },
+    {
       "nombre": "Sergio Gatica B.",
       "cargo": "Jefe de Mantención Mecánica, Planeación y Confiabilidad",
       "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/sergio-gatica",
       "fuente": "https://cl.linkedin.com/in/sergio-gatica"
+    },
+    {
+      "nombre": "Enrique Manuel Zavala Zepeda",
+      "cargo": "Jefe de Turno Planta de Ácido",
+      "tipo": "jefe_produccion",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/enrique-manuel-zavala-zepeda-68100b43",
+      "fuente": "https://cl.linkedin.com/in/enrique-manuel-zavala-zepeda-68100b43"
+    },
+    {
+      "nombre": "Juan Núñez Baeza",
+      "cargo": "Subgerente de Mantenimiento Mayor",
+      "tipo": "subgerente_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/juan-nu%C3%B1ez-baeza",
+      "fuente": "https://cl.linkedin.com/in/juan-nu%C3%B1ez-baeza"
     }
   ],
   "contacto_corporativo": {

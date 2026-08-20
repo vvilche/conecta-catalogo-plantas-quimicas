@@ -45,10 +45,41 @@
       "nombre": "Felipe Schneider Bornemann",
       "cargo": "Gerente General BASF Chile",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "felipe.schneider@basf.com",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/felipe-schneider-aa731814",
       "fuente": "https://snifa.sma.gob.cl/General/Descargar/1104398751"
+    },
+    {
+      "nombre": "Allan Picoli",
+      "cargo": "Managing Director, BASF Chile (Business Management Dispersions, Resins & Additives)",
+      "tipo": "managing_director",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://theorg.com/org/basf/org-chart/allan-picoli",
+      "fuente": "https://theorg.com/org/basf/org-chart/allan-picoli"
+    },
+    {
+      "nombre": "Nicolás Pizarro Tobar",
+      "cargo": "Site Manager / Plant Manager planta Concón",
+      "tipo": "site_manager",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/nicolas-pizarro-tobar",
+      "fuente": "https://cl.linkedin.com/in/nicolas-pizarro-tobar"
+    },
+    {
+      "nombre": "Víctor Bahamondéz",
+      "cargo": "Jefe de Mantención Planta Concón (Coord. Energías, Residuos Industriales y Facility)",
+      "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/victor-bahamondez-5ab21231",
+      "fuente": "https://cl.linkedin.com/in/victor-bahamondez-5ab21231"
     }
   ],
   "contacto_corporativo": {

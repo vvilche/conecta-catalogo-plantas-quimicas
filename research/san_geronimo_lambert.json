@@ -56,40 +56,74 @@
   ],
   "tomadores": [
     {
+      "nombre": "Jorge Vildósola C.",
+      "cargo": "Jefe de Ingeniería",
+      "tipo": "jefe_ingenieria",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/jorge-vild%C3%B3sola-c-96857841",
+      "fuente": "https://cl.linkedin.com/in/jorge-vild%C3%B3sola-c-96857841"
+    },
+    {
       "nombre": "Francisco Muñoz Cordovéz",
       "cargo": "Superintendente Planta Lambert",
       "tipo": "jefe_ingenieria",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Francisco%20Mu%C3%B1oz%20Cordov%C3%A9z%20San%20Ger%C3%B3nimo",
       "fuente": "https://www.direcmin.com/minera-san-geronimo/ejecutivos"
     },
     {
-      "nombre": "Thomas Piñones",
-      "cargo": "Jefe de Mantenimiento Planta Concentradora",
-      "tipo": "jefe_mantenimiento",
+      "nombre": "Rubén Labrin Figueroa",
+      "cargo": "Superintendente Planta Talcuna",
+      "tipo": "jefe_ingenieria",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
-      "linkedin": "https://cl.linkedin.com/in/thomas-pi%C3%B1ones-60778b353",
-      "fuente": "https://cl.linkedin.com/in/thomas-pi%C3%B1ones-60778b353"
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rub%C3%A9n%20Labrin%20San%20Ger%C3%B3nimo",
+      "fuente": "https://www.direcmin.com/minera-san-geronimo/ejecutivos"
+    },
+    {
+      "nombre": "Remigio John Núñez Lazo",
+      "cargo": "Gerente de Operaciones Mina",
+      "tipo": "gerente_operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/remigio-john-nu%C3%B1ez-lazo-35b39253",
+      "fuente": "https://cl.linkedin.com/in/remigio-john-nu%C3%B1ez-lazo-35b39253"
     },
     {
       "nombre": "Patricio Rendic Munizaga",
       "cargo": "Gerente General",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patricio%20Rendic%20San%20Ger%C3%B3nimo",
       "fuente": "https://cmsg.cl/quienes-somos/"
     },
     {
-      "nombre": "Rubén Labrin Figueroa",
-      "cargo": "Superintendente Planta Talcuna",
-      "tipo": "jefe_ingenieria",
+      "nombre": "Carlos Vásquez Riquelme",
+      "cargo": "Gerente de Abastecimiento y Comercialización",
+      "tipo": "abastecimiento",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rub%C3%A9n%20Labrin%20San%20Ger%C3%B3nimo",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Carlos%20V%C3%A1squez%20Riquelme%20San%20Ger%C3%B3nimo",
       "fuente": "https://www.direcmin.com/minera-san-geronimo/ejecutivos"
+    },
+    {
+      "nombre": "Thomas Piñones",
+      "cargo": "Jefe de Mantenimiento Planta Concentradora",
+      "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/thomas-pi%C3%B1ones-60778b353",
+      "fuente": "https://cl.linkedin.com/in/thomas-pi%C3%B1ones-60778b353"
     }
   ],
   "contacto_corporativo": {

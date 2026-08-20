@@ -42,13 +42,44 @@
   ],
   "tomadores": [
     {
+      "nombre": "Amaro Quiroz",
+      "cargo": "Gerente General SNF Flomin South América S.A. (entidad regional SNF que cubre Chile)",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/amaro-quiroz-8b886842",
+      "fuente": "https://cl.linkedin.com/in/amaro-quiroz-8b886842"
+    },
+    {
+      "nombre": "Paula Vidal Eulufí",
+      "cargo": "Gerente de Proyectos y Tecnología",
+      "tipo": "gerente_proyectos_tecnologia",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/paula-vidal-euluf%C3%AD",
+      "fuente": "https://cl.linkedin.com/in/paula-vidal-euluf%C3%AD"
+    },
+    {
       "nombre": "Guillermo Vargas",
       "cargo": "Jefe de Proyectos de Polímeros (contacto técnico identificado)",
-      "tipo": "gerente_proyectos",
+      "tipo": "jefe_proyectos",
+      "rol_compra": "CT",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/guillermo-vargas-49124060",
       "fuente": "https://cl.linkedin.com/in/guillermo-vargas-49124060"
+    },
+    {
+      "nombre": "Alan Muñoz Barrientos",
+      "cargo": "Ingeniero Asesor / Desarrollo de Proyectos",
+      "tipo": "ingeniero_proyectos",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/alan-mu%C3%B1oz-barrientos-56797888",
+      "fuente": "https://cl.linkedin.com/in/alan-mu%C3%B1oz-barrientos-56797888"
     }
   ],
   "contacto_corporativo": {

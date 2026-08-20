@@ -57,22 +57,64 @@
   ],
   "tomadores": [
     {
+      "nombre": "Carlos Andrade",
+      "cargo": "Jefe Eléctrico Instrumentación y Control (Coya Sur y Nueva Victoria)",
+      "tipo": "jefe_automatizacion",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/andrade-carlos-72b8322b",
+      "fuente": "https://cl.linkedin.com/in/andrade-carlos-72b8322b"
+    },
+    {
       "nombre": "Pablo Altimiras Ceardi",
       "cargo": "Gerente General División Yodo y Nutrición Vegetal",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pablo%20Altimiras%20Ceardi%20SQM",
       "fuente": "https://sqmc.cl/wp-content/uploads/2025/04/Memoria-2024-Interactiva.pdf"
     },
     {
+      "nombre": "Franco Villegas Sánchez",
+      "cargo": "Administrador de Contratos Abastecimiento Estratégico (Nueva Victoria)",
+      "tipo": "abastecimiento",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/franco-vs",
+      "fuente": "https://cl.linkedin.com/in/franco-vs"
+    },
+    {
       "nombre": "Patricio Miranda",
       "cargo": "Jefe Supervisor de Mantención Planta Nueva Victoria",
       "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/patricio-miranda-ingmineria",
       "fuente": "https://cl.linkedin.com/in/patricio-miranda-ingmineria"
+    },
+    {
+      "nombre": "Rubén Zubicueta",
+      "cargo": "Superintendente Producción Yodo (ex Jefe de Planta Yodo PV)",
+      "tipo": "jefe_produccion",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rub%C3%A9n-zubicueta-18b4a035",
+      "fuente": "https://cl.linkedin.com/in/rub%C3%A9n-zubicueta-18b4a035"
+    },
+    {
+      "nombre": "Javier Durán Pérez",
+      "cargo": "Jefe de Planificación Mantenimiento Nueva Victoria",
+      "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/javier-duran-perez-41b34460",
+      "fuente": "https://cl.linkedin.com/in/javier-duran-perez-41b34460"
     }
   ],
   "contacto_corporativo": {

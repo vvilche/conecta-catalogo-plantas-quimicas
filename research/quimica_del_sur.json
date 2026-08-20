@@ -49,9 +49,20 @@
   ],
   "tomadores": [
     {
+      "nombre": "Rodrigo Quintana",
+      "cargo": "Subgerente de Operaciones y Logística",
+      "tipo": "gerente_operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rodrigo-quintana-7ab305157",
+      "fuente": "https://cl.linkedin.com/in/rodrigo-quintana-7ab305157"
+    },
+    {
       "nombre": "Cristian Guerra Ortego",
       "cargo": "Gerente de Sucursal",
       "tipo": "gerente_general",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristian%20Guerra%20Qu%C3%ADmica%20del%20Sur",
@@ -61,6 +72,7 @@
       "nombre": "Eduardo Venegas",
       "cargo": "Gerente Administración y Finanzas",
       "tipo": "abastecimiento",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eduardo%20Venegas%20Qu%C3%ADmica%20del%20Sur",
@@ -70,10 +82,31 @@
       "nombre": "Juan Sánchez Morales",
       "cargo": "Fundador / Gerente General histórico (Ing. Civil Químico)",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20S%C3%A1nchez%20Morales%20Qu%C3%ADmica%20del%20Sur",
       "fuente": "https://www.industriaminera.cl/qumica-del-sur-y-ca-ltda/"
+    },
+    {
+      "nombre": "Fabiola Contreras Muñoz",
+      "cargo": "Jefe de Producción y Mantención",
+      "tipo": "jefe_produccion",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/fabiola-contreras-mu%C3%B1oz-17113214",
+      "fuente": "https://cl.linkedin.com/in/fabiola-contreras-mu%C3%B1oz-17113214"
+    },
+    {
+      "nombre": "Sebastián Cáceres Cáceres",
+      "cargo": "Especialista en Gestión de Activos, Mantenimiento, Proyectos y Contratos",
+      "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/sebasti%C3%A1n-c%C3%A1ceres-c%C3%A1ceres-a007a95b",
+      "fuente": "https://cl.linkedin.com/in/sebasti%C3%A1n-c%C3%A1ceres-c%C3%A1ceres-a007a95b"
     }
   ],
   "contacto_corporativo": {

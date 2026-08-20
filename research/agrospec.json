@@ -57,18 +57,50 @@
   ],
   "tomadores": [
     {
+      "nombre": "Rodrigo Vera",
+      "cargo": "Gerente de Operaciones",
+      "tipo": "gerente_operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rodrigo-vera-9607145b",
+      "fuente": "https://cl.linkedin.com/in/rodrigo-vera-9607145b"
+    },
+    {
       "nombre": "Mauricio Zwanzger Vuskovic",
       "cargo": "Gerente General",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mauricio%20Zwanzger%20Agrospec",
       "fuente": "https://websag.azurewebsites.net/sites/default/files/3766_2016.pdf"
     },
     {
+      "nombre": "Miguel Rodríguez Zabaleta",
+      "cargo": "Jefe de Abastecimiento y Logística (mar–dic 2022, vigencia no confirmada)",
+      "tipo": "abastecimiento",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/miguel-rodr%C3%ADguez-zabaleta-616bb4123",
+      "fuente": "https://cl.linkedin.com/in/miguel-rodr%C3%ADguez-zabaleta-616bb4123"
+    },
+    {
+      "nombre": "Dennis Fernandez",
+      "cargo": "Jefe de Producción",
+      "tipo": "jefe_produccion",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/dennis-fernandez-5555a16b",
+      "fuente": "https://cl.linkedin.com/in/dennis-fernandez-5555a16b"
+    },
+    {
       "nombre": "Patricio Osorio Concha",
       "cargo": "Jefe de Mantención y Proyectos",
       "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/patricio-osorio-concha-03617546",

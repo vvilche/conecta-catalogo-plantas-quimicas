@@ -57,9 +57,30 @@
   ],
   "tomadores": [
     {
+      "nombre": "Sandro de Assis Carvalho",
+      "cargo": "Gerente Corporativo de Operaciones",
+      "tipo": "jefe_ingenieria",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sandro%20de%20Assis%20Carvalho%20Anasac",
+      "fuente": "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf"
+    },
+    {
+      "nombre": "Carlos Cruz",
+      "cargo": "Gerente de Planta Lampa (vigencia no confirmada)",
+      "tipo": "gerente_planta",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/carlos-cruz-20970a59",
+      "fuente": "https://cl.linkedin.com/in/carlos-cruz-20970a59"
+    },
+    {
       "nombre": "Gabriel Ormeño Hofer",
       "cargo": "Gerente General Anasac Chile",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gabriel%20Orme%C3%B1o%20Anasac",
@@ -69,24 +90,37 @@
       "nombre": "Mario Lara Essedin",
       "cargo": "Gerente General Corporativo",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mario%20Lara%20Essedin%20Anasac",
       "fuente": "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf"
     },
     {
-      "nombre": "Sandro de Assis Carvalho",
-      "cargo": "Gerente Corporativo de Operaciones",
-      "tipo": "jefe_ingenieria",
+      "nombre": "Yoana Piña Lopez",
+      "cargo": "Jefa de Abastecimiento (Compras/Abastecimiento General)",
+      "tipo": "abastecimiento",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sandro%20de%20Assis%20Carvalho%20Anasac",
-      "fuente": "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf"
+      "linkedin": "https://cl.linkedin.com/in/yoana-pi%C3%B1a-lopez-269543b4",
+      "fuente": "https://cl.linkedin.com/in/yoana-pi%C3%B1a-lopez-269543b4"
+    },
+    {
+      "nombre": "Rodrigo Andrés Sagredo Aguilera",
+      "cargo": "Jefe de Planificación y Producción",
+      "tipo": "jefe_produccion",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rsagredo88",
+      "fuente": "https://cl.linkedin.com/in/rsagredo88"
     },
     {
       "nombre": "José Manuel Callumán Marinao",
       "cargo": "Jefe de Mantenimiento",
       "tipo": "jefe_mantenimiento",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/jos%C3%A9-manuel-callum%C3%A1n-marinao-03a4a77a",

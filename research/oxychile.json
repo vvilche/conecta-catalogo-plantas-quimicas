@@ -44,22 +44,34 @@
   ],
   "tomadores": [
     {
+      "nombre": "Andrés Weinberger",
+      "cargo": "Gerente General OxyChem Chile",
+      "tipo": "gerente_general",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/andr%C3%A9s-weinberger-6b377924",
+      "fuente": "https://www.cpcbiobio.cl/2022/11/oxychile-planta-talcahuano-recibio-visita-de-directorio-asiquim/"
+    },
+    {
       "nombre": "Joaquín Adlerstein Lapostol",
       "cargo": "Gerente de Planta Talcahuano",
-      "tipo": "gerente_proyectos",
+      "tipo": "gerente_planta",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/joaquin-adlerstein-lapostol-b5a92361",
       "fuente": "https://cl.linkedin.com/in/joaquin-adlerstein-lapostol-b5a92361"
     },
     {
-      "nombre": "Andrés Weinberger",
-      "cargo": "Gerente General OxyChem Chile",
-      "tipo": "gerente_general",
+      "nombre": "Carlos Quintana Yichi",
+      "cargo": "Jefe de Laboratorio / Representante de Gerencia Normas ISO 9001 e ISO 14000",
+      "tipo": "jefe_laboratorio",
+      "rol_compra": "R",
       "correo": "",
       "telefono": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andr%C3%A9s%20Weinberger%20OxyChile",
-      "fuente": "https://www.cpcbiobio.cl/2022/11/oxychile-planta-talcahuano-recibio-visita-de-directorio-asiquim/"
+      "linkedin": "https://cl.linkedin.com/in/carlos-quintana-yichi-66425713",
+      "fuente": "https://cl.linkedin.com/in/carlos-quintana-yichi-66425713"
     }
   ],
   "contacto_corporativo": {

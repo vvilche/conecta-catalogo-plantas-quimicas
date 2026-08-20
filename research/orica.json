@@ -58,19 +58,61 @@
       "nombre": "Christian Guerrero",
       "cargo": "Gerente General Chile & Argentina",
       "tipo": "gerente_general",
+      "rol_compra": "A",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/christian-guerrero-a989b050",
       "fuente": "https://www.df.cl/noticias/site/docs/20260326/20260326201943/suplemento_20260327_a.pdf"
     },
     {
+      "nombre": "Gabriel Roberto Ocaranza Henríquez",
+      "cargo": "Site Manager planta La Portada (Antofagasta)",
+      "tipo": "site_manager",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/gabriel-roberto-ocaranza-henriquez-01470230",
+      "fuente": "https://cl.linkedin.com/in/gabriel-roberto-ocaranza-henriquez-01470230"
+    },
+    {
+      "nombre": "Jose Luis Soto",
+      "cargo": "Manager Engineering & Asset (Chile y Argentina)",
+      "tipo": "manager_engineering",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/jose-luis-soto-24877ab2",
+      "fuente": "https://cl.linkedin.com/in/jose-luis-soto-24877ab2"
+    },
+    {
+      "nombre": "Luis Torres",
+      "cargo": "Lead Manufacturing Plant (EHM y Mejillones)",
+      "tipo": "lead_manufacturing",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/luis-torres-27865113a",
+      "fuente": "https://cl.linkedin.com/in/luis-torres-27865113a"
+    },
+    {
       "nombre": "Ulises Segovia Montero",
       "cargo": "Superintendente de Producción (Antofagasta)",
-      "tipo": "gerente_proyectos",
+      "tipo": "superintendente_produccion",
+      "rol_compra": "D",
       "correo": "",
       "telefono": "",
       "linkedin": "https://cl.linkedin.com/in/ulises-segovia-montero-b55445135",
       "fuente": "https://cl.linkedin.com/in/ulises-segovia-montero-b55445135"
+    },
+    {
+      "nombre": "Valeska Ortiz",
+      "cargo": "Senior Superintendent Maint-Execution (Chile-Argentina)",
+      "tipo": "superintendente_mantenimiento",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/valeska-ortiz-454b8937",
+      "fuente": "https://cl.linkedin.com/in/valeska-ortiz-454b8937"
     }
   ],
   "contacto_corporativo": {

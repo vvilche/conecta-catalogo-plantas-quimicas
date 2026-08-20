@@ -45,6 +45,14 @@ CLAS_COLOR = {
     "COMPETIDOR": ("tag-amb", "COMPETIDOR"),
     "CLIENTE FINAL": ("tag-gris", "CLIENTE FINAL"),
 }
+ROL_COMPRA = {
+    "CT": ("tag-azul", "Comprador Técnico"),
+    "D": ("tag-verde", "Decisor"),
+    "A": ("tag-amb", "Autoridad"),
+    "R": ("tag-gris", "Recomendador"),
+    "I": ("tag-gris", "Influencia"),
+    "C": ("tag-verde", "Coach"),
+}
 
 def load_companies():
     comps = []
@@ -149,7 +157,7 @@ def section_tomadores(c):
         if not isinstance(t, dict) or not t.get("nombre"): continue
         nombre = t["nombre"]; cargo = t.get("cargo", "")
         correo = t.get("correo", ""); tel = t.get("telefono", ""); lk = t.get("linkedin", "")
-        fr = t.get("fuente", "")
+        fr = t.get("fuente", ""); rc = (t.get("rol_compra") or "").strip().upper()
         chips = ""
         if correo and str(correo).strip() and "@" in str(correo):
             chips += f'<a class="chip mail" href="mailto:{esc(correo)}">{esc(correo.split("@")[0])}@</a>'
@@ -157,7 +165,11 @@ def section_tomadores(c):
             chips += f'<a class="chip" href="tel:{esc(tel)}">{esc(tel)}</a>'
         if lk and str(lk).strip() and "http" in str(lk):
             chips += f'<a class="chip" href="{esc(lk)}" target="_blank" rel="noopener">LinkedIn ↗</a>'
-        rol_extra = f'<div class="rol">{esc(cargo)}</div>'
+        rol_badge = ""
+        if rc in ROL_COMPRA:
+            color, etiqueta = ROL_COMPRA[rc]
+            rol_badge = f'<span class="tag {color}">{esc(rc)} · {esc(etiqueta)}</span>'
+        rol_extra = f'<div class="rol">{esc(cargo)} {rol_badge}</div>'
         src_line = fuente(fr) if fr else ""
         out += (f'<div class="contacto"><div><span class="nombre">{esc(nombre)}</span>{rol_extra}</div>'
                 f'<div class="cta">{chips}</div></div>{src_line}')
@@ -270,7 +282,7 @@ def ficha_page(c):
     if s1: secs.append('<div class="section"><h2>1 · Quién es</h2>' + s1 + '</div>')
     if s2: secs.append('<div class="section"><h2>2 · Qué hace</h2>' + s2 + '</div>')
     if s3: secs.append('<div class="section"><h2>3 · Proyectos / clientes</h2>' + s3 + '</div>')
-    if s4: secs.append('<div class="section"><h2>4 · Tomadores de decisión</h2>' + s4 + '</div>')
+    if s4: secs.append('<div class="section"><h2>4 · Team de Compras — tomadores de decisión</h2>' + s4 + '</div>')
     if s6: secs.append('<div class="section"><h2>5 · Contacto corporativo</h2>' + s6 + '</div>')
     if s5: secs.append('<div class="section"><h2>6 · Ángulo CONECTA</h2>' + s5 + '</div>')
     return f'''<!DOCTYPE html>
