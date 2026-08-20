@@ -1,0 +1,61 @@
+{
+  "empresa": "SNF Chile S.A.",
+  "slug": "snf",
+  "rubro": "Polímeros solubles en agua (poliacrilamida): floculantes y coagulantes para minería y tratamiento de aguas",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de polímeros/floculantes para minería (formulación, blending y dosificación) → automatización de dosificación + SCADA; filial de grupo francés con estándares globales de proceso",
+  "quien_es": {
+    "descripcion": "Filial chilena de SNF Group (Francia), productor de polímeros solubles en agua (floculantes/coagulantes) para espesamiento de relaves, clarificación y recuperación de agua en minería.",
+    "fundada": "2005",
+    "dotacion": "11–50 empleados (rango LinkedIn)",
+    "facturacion": "no verificado",
+    "matriz_grupo": "SNF Group (Andrézieux-Bouthéon, Francia); ~8.150 empleados y facturación ~€4,9 mil M (2022)",
+    "rut": "76.380.300-7",
+    "sede": "Calle Nueva 1661-A, Condominio El Parronal, Huechuraba, Santiago",
+    "fuentes": [
+      "https://snfchile.com/nosotros/",
+      "https://www.snf.com/locations/cl/",
+      "https://divisionminera.cl/snf-chile/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Floculantes aniónicos, catiónicos y anfóteros (en emulsión y en polvo)",
+      "Coagulantes orgánicos e inorgánicos (poliaminas, polidadmac)",
+      "Polímeros para espesamiento de relaves, clarificación, deshidratación de lodos y recuperación de agua",
+      "Soporte técnico pre/post venta, pruebas de laboratorio y monitoreo en planta"
+    ],
+    "rol_cadena": "Proveedor de insumos químicos de proceso para espesamiento de relaves y recuperación de agua en minería.",
+    "fuentes": [
+      "https://www.aquasurtech.cl/en/snf-chile-s-a-en-aquasur-tech-2025-2/",
+      "https://www.snf.com/locations/cl/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Abastecimiento de floculantes y polímeros a faenas mineras (clientes históricos)",
+      "cliente": "Minera El Teniente, Minera Andina, Minera Centinela; interés/prospección en Chuquicamata, Ministro Hales, Sierra Gorda, Collahuasi, Los Pelambres",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://cl.linkedin.com/in/guillermo-vargas-49124060"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Guillermo Vargas",
+      "cargo": "Jefe de Proyectos de Polímeros (contacto técnico identificado)",
+      "tipo": "gerente_proyectos",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/guillermo-vargas-49124060",
+      "fuente": "https://cl.linkedin.com/in/guillermo-vargas-49124060"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Calle Nueva 1661-A, Condominio El Parronal, Huechuraba, Santiago",
+    "telefono": "+56 2 2726 9801 (fax +56 2 2726 9810)",
+    "correo": "info@snf-chile.com",
+    "web": "https://snfchile.com",
+    "fuente": "https://snfchile.com/nosotros/"
+  }
+}

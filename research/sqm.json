@@ -1,0 +1,85 @@
+{
+  "empresa": "Sociedad Química y Minera de Chile S.A. (SQM)",
+  "slug": "sqm",
+  "rubro": "Químicos industriales, nutrición vegetal, fertilizantes, yodo y litio",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Productor global de yodo y derivados, litio, fertilizantes potásicos (nitrato y cloruro de potasio, sulfatos), nutrición vegetal de especialidad y químicos industriales, con operaciones en el norte de Chile.",
+    "fundada": "1968 (Decreto Nº 1.164 del 22-jun-1968, inscrita 29-jun-1968)",
+    "dotacion": "8.344 empleados permanentes (2024; 1.086 fuera de Chile)",
+    "facturacion": "US$ 4.529 millones de ventas (2024)",
+    "matriz_grupo": "SQM S.A. (grupo cotizado en bolsa)",
+    "rut": "93.007.000-9",
+    "sede": "El Trovador 4285, piso 6, Las Condes, Santiago. Plantas norte: Pampa Blanca, María Elena, Pedro de Valdivia, Nueva Victoria, Tocopilla, Coya Sur",
+    "fuentes": [
+      "https://ir.sqm.com/static-files/a586f77c-14f4-4776-8b91-8ab2f24e5f7d",
+      "https://www.sec.gov/Archives/edgar/data/909037/000090903725000020/sqm-20241231.htm",
+      "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&mercado=V&pestania=1&rut=93007000&tipoentidad=RVEMI&vig=VI"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Yodo y derivados orgánicos e inorgánicos",
+      "Litio y derivados (carbonato e hidróxido de litio)",
+      "Nutrición vegetal de especialidad",
+      "Fertilizantes potásicos: nitrato de potasio, cloruro de potasio, sulfatos",
+      "Sales solares e industriales y productos químicos industriales"
+    ],
+    "rol_cadena": "Productor químico-minero integrado (extracción de caliche y litio, procesamiento químico)",
+    "fuentes": [
+      "https://es.scribd.com/document/1019801530/Memoria-Sqm-2024-esp",
+      "https://cms.sqmnutrition.com/wp-content/uploads/2025/08/Reporte-SQM-YNV-2024_compressed.pdf"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Ampliación Nueva Victoria 'Pampa Hermosa' — aumento de producción de yodo y nitratos",
+      "cliente": "",
+      "ubicacion": "Nueva Victoria, Región de Tarapacá",
+      "monto": "",
+      "fuente": "https://sqmlitio.com/wp-content/uploads/2020/10/Reporte-2014-1.pdf"
+    },
+    {
+      "proyecto": "Negocio de litio: US$ 2.241 M de ingresos (2024), ~49% de los ingresos totales; volúmenes +21% vs 2023",
+      "cliente": "",
+      "ubicacion": "Salar de Atacama / plantas de litio",
+      "monto": "US$ 2.241 millones (ingresos 2024)",
+      "fuente": "https://es.scribd.com/document/1019801530/Memoria-Sqm-2024-esp"
+    },
+    {
+      "proyecto": "Contrato de venta de carbonato e hidróxido de litio para baterías de vehículos eléctricos (2021-2029)",
+      "cliente": "LG Energy Solution",
+      "ubicacion": "Internacional",
+      "monto": "",
+      "fuente": "https://es.wikipedia.org/wiki/Sociedad_Qu%C3%ADmica_y_Minera_de_Chile"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Pablo Altimiras Ceardi",
+      "cargo": "Gerente General División Yodo y Nutrición Vegetal",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pablo%20Altimiras%20Ceardi%20SQM",
+      "fuente": "https://sqmc.cl/wp-content/uploads/2025/04/Memoria-2024-Interactiva.pdf"
+    },
+    {
+      "nombre": "Patricio Miranda",
+      "cargo": "Jefe Supervisor de Mantención Planta Nueva Victoria",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/patricio-miranda-ingmineria",
+      "fuente": "https://cl.linkedin.com/in/patricio-miranda-ingmineria"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "El Trovador 4285, piso 6, Las Condes, Santiago",
+    "telefono": "+56 2 2425 2000",
+    "correo": "no verificado (SQM usa formulario web de contacto)",
+    "web": "https://www.sqm.com",
+    "fuente": "https://sqm.com/contactanos/"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "empresa": "Química del Sur y Cía. Ltda.",
+  "slug": "quimica_del_sur",
+  "rubro": "Sulfatos cristalizados (magnesio, fierro, zinc) y químicos inorgánicos",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Fabricante chileno de productos químicos inorgánicos, especialmente sulfatos cristalizados (sulfato de magnesio, sulfato de fierro/férrico y sulfato de zinc) en polvo y granulado, con división agrícola y servicios de almacenamiento y transporte de sustancias peligrosas.",
+    "fundada": "1979 (fundada por el Ing. Civil Químico Juan Sánchez Morales); planta trasladada de Renca a Lampa en 1999",
+    "dotacion": "~150 trabajadores",
+    "facturacion": "no verificado",
+    "matriz_grupo": "no verificado",
+    "rut": "78.572.860-2",
+    "sede": "Casa matriz: Av. El Taqueral 493, Lampa, Región Metropolitana. Sucursales: Puerto Montt, Coronel y Antofagasta",
+    "fuentes": [
+      "https://quimicadelsur.cl/quienes-somos/",
+      "https://quimicadelsur.cl/casa-matriz/",
+      "https://chilepymes.com/info/quimica-del-sur-y-cia-ltda-3B5E4ABA36F9F314"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Sulfatos cristalizados (sulfato de magnesio, fierro y zinc) en polvo y granulado",
+      "Productos químicos inorgánicos líquidos y sólidos",
+      "División Agrícola: soluciones y productos a medida para el agro",
+      "Almacenamiento y transporte de sustancias peligrosas con flota propia"
+    ],
+    "rol_cadena": "Fabricante de químicos inorgánicos para minería, pesca, lácteos, alimentos, curtiembres y agricultura",
+    "fuentes": [
+      "https://www.industriaminera.cl/qumica-del-sur-y-ca-ltda/",
+      "https://quimicadelsur.cl/quienes-somos/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Proveedor de insumos químicos de las principales mineras de Chile",
+      "cliente": "Albemarle, Antofagasta Minerals, Codelco, Glencore, SQM",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://www.direcmin.com/qu-mica-del-sur-y-c-a-ltda/clientes"
+    },
+    {
+      "proyecto": "Suministro de hipoclorito de sodio para cloración de agua potable a municipios y entidades militares",
+      "cliente": "Municipalidades (ej. Puerto Octay) y entidades militares",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://www.todolicitaciones.cl/proveedor/785728602/quimica-del-sur-y-cia-ltda"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Cristian Guerra Ortego",
+      "cargo": "Gerente de Sucursal",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristian%20Guerra%20Qu%C3%ADmica%20del%20Sur",
+      "fuente": "https://cl.linkedin.com/company/qu-mica-del-sur-y-compa-a-limitada"
+    },
+    {
+      "nombre": "Eduardo Venegas",
+      "cargo": "Gerente Administración y Finanzas",
+      "tipo": "abastecimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eduardo%20Venegas%20Qu%C3%ADmica%20del%20Sur",
+      "fuente": "https://www.mercantil.com/empresa/quimica-del-sur/lampa/300031825/esp"
+    },
+    {
+      "nombre": "Juan Sánchez Morales",
+      "cargo": "Fundador / Gerente General histórico (Ing. Civil Químico)",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20S%C3%A1nchez%20Morales%20Qu%C3%ADmica%20del%20Sur",
+      "fuente": "https://www.industriaminera.cl/qumica-del-sur-y-ca-ltda/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. El Taqueral 493, Lampa, Región Metropolitana",
+    "telefono": "+56 2 2412 4000",
+    "correo": "rsanchez@quimicadelsur.cl",
+    "web": "https://www.quimicadelsur.cl",
+    "fuente": "https://quimicadelsur.cl/casa-matriz/"
+  }
+}

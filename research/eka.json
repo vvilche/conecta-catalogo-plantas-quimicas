@@ -1,0 +1,88 @@
+{
+  "empresa": "Eka Chile S.A. (Eka Chemicals Chile)",
+  "slug": "eka",
+  "rubro": "Clorato de sodio, dióxido de cloro in situ y peróxido de hidrógeno para blanqueo de celulosa",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta electroquímica continua (electrólisis de salmuera) + planta de peróxido → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Joint-venture entre Nouryon (ex Eka Chemicals) y Celulosa Arauco y Constitución S.A. Produce clorato de sodio, genera dióxido de cloro in situ y peróxido de hidrógeno para el blanqueo de celulosa en la Región del Biobío. Planta de clorato operando en Talcahuano desde 1970.",
+    "fundada": "Planta de clorato de sodio en Talcahuano operando desde 1970; razón social Eka Chile S.A. constituida en 2002 (transformada a SpA en 2015)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Joint-venture Nouryon + Celulosa Arauco y Constitución S.A.",
+    "rut": "99.500.140-3",
+    "sede": "Av. Rocoto 2911, Talcahuano, Región del Biobío, Chile",
+    "fuentes": [
+      "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/8649",
+      "https://www.comxport.com/co/eka_chile_sa-chile-832.php",
+      "https://www.diarioconcepcion.cl/economia-y-negocios/2019/06/25/buscan-invertir-19-505-millones-en-planta-de-peroxido-en-talcahuano.html",
+      "https://dequienes.cl/diario-oficial/2015/06/26/eka-chemicals-chile-spa-918598"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Producción de clorato de sodio (NaClO₃)",
+      "Generación de dióxido de cloro (ClO₂) in situ",
+      "Producción de peróxido de hidrógeno (H₂O₂ 70%)",
+      "Aprovechamiento del hidrógeno subproducto de electrólisis para síntesis de peróxido"
+    ],
+    "rol_cadena": "Productor químico para la cadena de celulosa (blanqueo ECF); cliente final de DCS, instrumentación y SCADA.",
+    "fuentes": [
+      "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/8649",
+      "https://red-conecta.com/empresa/730/eka-chile-sa",
+      "https://www.diarioconcepcion.cl/economia-y-negocios/2019/06/25/buscan-invertir-19-505-millones-en-planta-de-peroxido-en-talcahuano.html"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta de peróxido de hidrógeno en Talcahuano (30.000 t/año puro; 42.857 t/año en solución 70%)",
+      "cliente": "Eka Chile (inversión propia)",
+      "ubicacion": "Talcahuano, Región del Biobío",
+      "monto": "US$ 28,6 millones (estimado, ≈ CLP $19.500 millones según prensa 2019)",
+      "fuente": "https://www.diarioconcepcion.cl/economia-y-negocios/2019/06/25/buscan-invertir-19-505-millones-en-planta-de-peroxido-en-talcahuano.html"
+    },
+    {
+      "proyecto": "Suministro de clorato de sodio y dióxido de cloro a plantas de celulosa",
+      "cliente": "Celulosa Arauco y Constitución S.A. (socia del JV)",
+      "ubicacion": "Plantas de celulosa Arauco, Región del Biobío",
+      "monto": "no verificado",
+      "fuente": "https://arauco.com/cam-carib/wp-content/uploads/sites/27/2017/07/MEMORIA_CASA_2018.pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Isaac Morend Deresinsky",
+      "cargo": "Gerente General",
+      "tipo": "gerente_general",
+      "correo": "isaac.morend@nouryon.com",
+      "telefono": "+56 41 212 9200 (planta)",
+      "linkedin": "https://cl.linkedin.com/in/isaac-morend-256879b",
+      "fuente": "https://snifa.sma.gob.cl/General/Descargar/1104274243"
+    },
+    {
+      "nombre": "Guillermo Eugenio Ponce Vergara",
+      "cargo": "Jefe de Producción",
+      "tipo": "jefe_produccion",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/guillermo-eugenio-ponce-vergara-03893559",
+      "fuente": "https://cl.linkedin.com/in/guillermo-eugenio-ponce-vergara-03893559"
+    },
+    {
+      "nombre": "Fernando Alonso Ruiz Fuentealba",
+      "cargo": "Jefe de Mantenimiento (Mecánico y Planificación)",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/fernando-alonso-ruiz-fuentealba-0501a631",
+      "fuente": "https://cl.linkedin.com/in/fernando-alonso-ruiz-fuentealba-0501a631"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Rocoto 2911, Talcahuano, Región del Biobío, Chile",
+    "telefono": "+56 41 212 9200",
+    "correo": "isaac.morend@nouryon.com (Gerente General; correo corporativo general no publicado)",
+    "web": "https://www.eka.com",
+    "fuente": "https://www.comxport.com/co/eka_chile_sa-chile-832.php"
+  }
+}

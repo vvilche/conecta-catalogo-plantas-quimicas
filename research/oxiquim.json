@@ -1,0 +1,76 @@
+{
+  "empresa": "Oxiquim S.A.",
+  "slug": "oxiquim",
+  "rubro": "Comercialización y distribución de químicos industriales y petroquímicos; operación de terminales marítimos",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Red de terminales marítimos (Quintero, Talcahuano, Mejillones) con tanques, brazos de carga y transferencia de custodia → automatización de terminal (SCADA + instrumentación de nivel/flujo) y modernización de plantas de mezcla",
+  "quien_es": {
+    "descripcion": "Comercializadora y distribuidora chilena de químicos industriales y petroquímicos, con red propia de terminales marítimos para importación, almacenamiento y despacho a granel.",
+    "fundada": "Predecesora Elaboradora de Productos Químicos Sintex Ltda. constituida en 1965 (origen del negocio químico); fecha de constitución de Oxiquim S.A. no confirmada",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "no verificado",
+    "rut": "80.326.500-3",
+    "sede": "Av. Santa María 2050, Providencia, Santiago (Casilla Postal 9158). Terminales: Quintero (Camino Costero 271, El Bato), Talcahuano, Mejillones, Escuadrón.",
+    "fuentes": [
+      "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&mercado=V&rut=80326500",
+      "https://www.direcmin.com/oxiquim-s-a/informacion-de-contacto",
+      "https://oxiquim.cl/contacto/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Distribución y comercialización de químicos industriales y petroquímicos",
+      "Operación de terminales marítimos (Quintero, Talcahuano, Mejillones, Escuadrón)",
+      "Logística de importación, almacenamiento y despacho de productos químicos a granel"
+    ],
+    "rol_cadena": "Canal de distribución y logística de insumos químicos para la gran minería e industria.",
+    "fuentes": [
+      "https://www.direcmin.com/oxiquim-s-a/informacion-de-contacto",
+      "https://es.scribd.com/document/705946192/Memoria-2019"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Abastecimiento de químicos a la gran minería del cobre",
+      "cliente": "Codelco, Antofagasta Minerals, BHP Billiton, Teck, Doña Inés de Collahuasi, Anglo American, KGHM, Lumina Copper",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://www.direcmin.com/oxiquim-s-a/informacion-de-contacto"
+    },
+    {
+      "proyecto": "Terminal GLP Mejillones (ampliación de infraestructura portuaria)",
+      "cliente": "Oxiquim (inversión propia)",
+      "ubicacion": "Mejillones, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://es.scribd.com/document/705946192/Memoria-2019"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Ignacio Diez",
+      "cargo": "Gerente de Operaciones",
+      "tipo": "gerente_proyectos",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/diezignacio",
+      "fuente": "https://cl.linkedin.com/in/diezignacio"
+    },
+    {
+      "nombre": "Cristóbal Naulín",
+      "cargo": "Jefe de Mantenimiento y Proyectos, División Terminales Marítimos",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/cristobal-naulin-12b07654",
+      "fuente": "https://cl.linkedin.com/in/cristobal-naulin-12b07654"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Santa María 2050, Providencia, Santiago (Casilla Postal 9158)",
+    "telefono": "+56 2 2478 8000 (central) · +56 2 2478 8100 (ventas)",
+    "correo": "mineria@oxiquim.com",
+    "web": "https://www.oxiquim.cl",
+    "fuente": "https://oxiquim.cl/contacto/"
+  }
+}

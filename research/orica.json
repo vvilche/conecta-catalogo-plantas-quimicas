@@ -1,0 +1,83 @@
+{
+  "empresa": "Orica Chile S.A.",
+  "slug": "orica",
+  "rubro": "Explosivos y químicos para minería: ANFO, emulsiones, detonadores, cianuro de sodio, reactivos y soluciones digitales de voladura",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Plantas de manufactura (ANFO, emulsión, detonadores) de proceso continuo con exigencia ATEX → DCS + instrumentación + SCADA y trazabilidad de lotes",
+  "quien_es": {
+    "descripcion": "Filial chilena de Orica Limited (Australia), líder global en explosivos y químicos de minería. Opera plantas de manufactura y almacenamiento en la Región de Antofagasta.",
+    "fundada": "no verificado",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Orica Limited (Australia)",
+    "rut": "95.467.000-7",
+    "sede": "Av. Costanera Sur 2730, Piso 3-4, Las Condes, Santiago. Plantas: Mejillones (ANFO), Nudo Uribe (emulsión), La Portada (detonadores), Antofagasta.",
+    "fuentes": [
+      "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=b3%2F5d%2Ff365c3aa8cf2043816ec160fbc5b8eb31346",
+      "https://www.orica.com/esla",
+      "https://www.mercantil.com/empresa/orica-mining-services/las-condes/300000388/esp"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Explosivos: ANFO y emulsiones a granel",
+      "Detonadores eléctricos y no electrónicos",
+      "Cianuro de sodio y reactivos para minería",
+      "Soluciones digitales de voladura y optimización de perforación"
+    ],
+    "rol_cadena": "Proveedor tecnológico de voladura y químicos de proceso para la gran minería del cobre.",
+    "fuentes": [
+      "https://www.orica.com/en/products-and-services"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Acuerdo de I+D con Codelco en seguridad, productividad y continuidad operacional (enero 2022)",
+      "cliente": "Codelco",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://www.codelco.com/prensa/2022/codelco-y-orica-firman-acuerdo-para-investigacion-y-desarrollo-de"
+    },
+    {
+      "proyecto": "Optimización de voladuras 4D Blast Design (reducción de costos de tronadura)",
+      "cliente": "Minera Candelaria",
+      "ubicacion": "Región de Atacama",
+      "monto": "",
+      "fuente": "https://www.orica.com/resource-hub/case-study/2026/reducing-blasting-costs-with-4d-and-blast-design-for-outcome"
+    },
+    {
+      "proyecto": "Planta Mejillones (ANFO) y ampliación de almacenamiento de nitrato de amonio (10.000 → 20.000 tn)",
+      "cliente": "Orica (inversión propia)",
+      "ubicacion": "Mejillones, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=b3%2F5d%2Ff365c3aa8cf2043816ec160fbc5b8eb31346"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Christian Guerrero",
+      "cargo": "Gerente General Chile & Argentina",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/christian-guerrero-a989b050",
+      "fuente": "https://www.df.cl/noticias/site/docs/20260326/20260326201943/suplemento_20260327_a.pdf"
+    },
+    {
+      "nombre": "Ulises Segovia Montero",
+      "cargo": "Superintendente de Producción (Antofagasta)",
+      "tipo": "gerente_proyectos",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/ulises-segovia-montero-b55445135",
+      "fuente": "https://cl.linkedin.com/in/ulises-segovia-montero-b55445135"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Costanera Sur 2730, Piso 3-4, Las Condes, Santiago",
+    "telefono": "+56 2 2715 3800",
+    "correo": "support.santiago@orica.com",
+    "web": "https://www.orica.com",
+    "fuente": "https://www.mercantil.com/empresa/orica-mining-services/las-condes/300000388/esp"
+  }
+}

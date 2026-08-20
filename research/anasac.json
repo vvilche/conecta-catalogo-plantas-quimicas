@@ -1,0 +1,103 @@
+{
+  "empresa": "Anasac Chile S.A.",
+  "slug": "anasac",
+  "rubro": "Agroquímicos, fitosanitarios, sales minerales y sanidad ambiental",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Empresa del grupo Agrícola Nacional S.A.C. e I., productora y distribuidora de agroquímicos, fitosanitarios, semillas, sales minerales para animales y productos de sanidad ambiental (a través de la filial Anasac Ambiental S.A.).",
+    "fundada": "1948 (matriz Agrícola Nacional); Anasac Chile S.A. constituida el 29-sep-2009",
+    "dotacion": "1.407 trabajadores (con subsidiarias, al 31-dic-2022)",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Agrícola Nacional S.A.C. e I.",
+    "rut": "76.075.832-9",
+    "sede": "Casa matriz: Almirante Pastene 300, Providencia, Santiago. Plantas: Lampa y San Miguel (RM); sales minerales en San Carlos",
+    "fuentes": [
+      "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/11623",
+      "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf",
+      "https://anasac.cl/agropecuario/wp-content/uploads/sites/2/2024/12/Politica_Proteccioon_Datos_Personales_Anasac.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Insecticidas, herbicidas, fungicidas y reguladores de crecimiento",
+      "Semillas: secado, selección y acondicionamiento (maíz, hortalizas, forrajeras, trigo, canola)",
+      "Sales minerales para animales (planta San Carlos)",
+      "Sanidad ambiental: higiene, desinfección y control de plagas (Anasac Ambiental S.A.)",
+      "Distribución nacional vía plantas y centros de distribución"
+    ],
+    "rol_cadena": "Productor y distribuidor de agroquímicos y sanidad ambiental",
+    "fuentes": [
+      "https://anasac.com/wp-content/uploads/2025/07/Memoria_y_EEFF_Anasac_2017.pdf",
+      "https://anasac.com/wp-content/uploads/2025/07/2023_Memoria_EEFF_Anasac_SACI.pdf"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Líder en proyectos certificados bajo Ley I+D (~35 iniciativas aprobadas al 2025)",
+      "cliente": "",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://anasac.cl/agropecuario/noticias/anasac-empresa-lider-innovacion-enchile/"
+    },
+    {
+      "proyecto": "Red de distribución agrícola nacional (retail agrícola, cooperativas, agroindustrias)",
+      "cliente": "Copeval, Ferosor Agrícola, Cals, Cooprinsem",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://anasac.com/wp-content/uploads/2023/01/2010-Memoria-Anasac.pdf"
+    },
+    {
+      "proyecto": "Proyecto vitivinícola VSPT en Buchahueico (Araucanía) — iniciativa de sostenibilidad",
+      "cliente": "VSPT",
+      "ubicacion": "Comunidad de Buchahueico, Araucanía",
+      "monto": "",
+      "fuente": "https://anasac.com/sostenibilidad/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Gabriel Ormeño Hofer",
+      "cargo": "Gerente General Anasac Chile",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gabriel%20Orme%C3%B1o%20Anasac",
+      "fuente": "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf"
+    },
+    {
+      "nombre": "Mario Lara Essedin",
+      "cargo": "Gerente General Corporativo",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mario%20Lara%20Essedin%20Anasac",
+      "fuente": "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf"
+    },
+    {
+      "nombre": "Sandro de Assis Carvalho",
+      "cargo": "Gerente Corporativo de Operaciones",
+      "tipo": "jefe_ingenieria",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sandro%20de%20Assis%20Carvalho%20Anasac",
+      "fuente": "https://anasac.com/wp-content/uploads/2023/04/Anasac_Memoria__EEFF_2022.pdf"
+    },
+    {
+      "nombre": "José Manuel Callumán Marinao",
+      "cargo": "Jefe de Mantenimiento",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/jos%C3%A9-manuel-callum%C3%A1n-marinao-03a4a77a",
+      "fuente": "https://cl.linkedin.com/in/jos%C3%A9-manuel-callum%C3%A1n-marinao-03a4a77a"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Almirante Pastene 300, Providencia, Santiago, Región Metropolitana",
+    "telefono": "+56 2 2471 7101",
+    "correo": "comunicaciones@anasac.com",
+    "web": "https://www.anasac.cl",
+    "fuente": "https://anasac.cl/agropecuario/wp-content/uploads/sites/2/2024/12/Politica_Proteccioon_Datos_Personales_Anasac.pdf"
+  }
+}

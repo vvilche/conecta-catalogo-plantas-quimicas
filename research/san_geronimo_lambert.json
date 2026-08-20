@@ -1,0 +1,102 @@
+{
+  "empresa": "Compañía Minera San Gerónimo",
+  "slug": "san_geronimo_lambert",
+  "rubro": "Minería y química: sulfato de cobre pentahidratado y productos agrícolas de cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Minera de cobre con división química (Lambert) que produce sulfato de cobre pentahidratado feedgrade (CopperFull) y productos agrícolas de cobre. Aproximadamente 85% de la producción se exporta y la división Lambert representa cerca del 20% de los ingresos de la empresa.",
+    "fundada": "1988 (puesta en marcha Faena Talcuna, 25-abr-1988)",
+    "dotacion": "~634 empleados",
+    "facturacion": "Tramo 13 de ventas SII (> 1.000.000 UF/año); cifra exacta no verificada",
+    "matriz_grupo": "no verificado",
+    "rut": "78.801.520-8",
+    "sede": "Casa matriz: Av. Talca 101, Barrio Industrial, Coquimbo. Planta Lambert / San Lorenzo: quebrada El Romero, 22 km al noroeste de La Serena",
+    "fuentes": [
+      "https://cmsg.cl/quienes-somos/",
+      "https://cmsg.cl/que-hacemos/",
+      "https://chilepymes.com/info/cia-minera-san-geronimo-C6CA2F494B65416F"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Sulfato de cobre pentahidratado feedgrade (CopperFull) para alimentación animal, fungicidas y fertilizantes",
+      "Fungicida-bactericida cúprico agrícola (Agrocopper)",
+      "Fertilizante de cobre agrícola (Ferticopper)",
+      "Concentrados de cobre, plata y oro (Faena Talcuna)",
+      "Preconcentrado de hierro como subproducto"
+    ],
+    "rol_cadena": "Productor minero-químico con valor agregado del cobre (sulfatos y productos agrícolas)",
+    "fuentes": [
+      "https://cmsg.cl/que-hacemos/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Agrocopper — fungicida-bactericida cúprico distribuido en Chile por Anasac",
+      "cliente": "Anasac (canal de distribución)",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://cmsg.cl/quienes-somos/"
+    },
+    {
+      "proyecto": "Proyecto Infieles — exploraciones y sondajes para aumentar producción (división Talcuna)",
+      "cliente": "",
+      "ubicacion": "Talcuna, Región de Coquimbo",
+      "monto": "",
+      "fuente": "https://sangeronimo.net/2009/03/19/el-departamento-de-geologia-de-cia-minera-san-geronimo/"
+    },
+    {
+      "proyecto": "Exportación de sulfato de cobre feedgrade a mercados internacionales (abastecido por pequeños y medianos mineros locales)",
+      "cliente": "",
+      "ubicacion": "Internacional",
+      "monto": "",
+      "fuente": "https://cmsg.cl/que-hacemos/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Francisco Muñoz Cordovéz",
+      "cargo": "Superintendente Planta Lambert",
+      "tipo": "jefe_ingenieria",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Francisco%20Mu%C3%B1oz%20Cordov%C3%A9z%20San%20Ger%C3%B3nimo",
+      "fuente": "https://www.direcmin.com/minera-san-geronimo/ejecutivos"
+    },
+    {
+      "nombre": "Thomas Piñones",
+      "cargo": "Jefe de Mantenimiento Planta Concentradora",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/thomas-pi%C3%B1ones-60778b353",
+      "fuente": "https://cl.linkedin.com/in/thomas-pi%C3%B1ones-60778b353"
+    },
+    {
+      "nombre": "Patricio Rendic Munizaga",
+      "cargo": "Gerente General",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patricio%20Rendic%20San%20Ger%C3%B3nimo",
+      "fuente": "https://cmsg.cl/quienes-somos/"
+    },
+    {
+      "nombre": "Rubén Labrin Figueroa",
+      "cargo": "Superintendente Planta Talcuna",
+      "tipo": "jefe_ingenieria",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rub%C3%A9n%20Labrin%20San%20Ger%C3%B3nimo",
+      "fuente": "https://www.direcmin.com/minera-san-geronimo/ejecutivos"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Talca 101, Barrio Industrial, Coquimbo, Región de Coquimbo",
+    "telefono": "+56 51 257 1100",
+    "correo": "info@cmsg.cl",
+    "web": "https://www.cmsg.cl",
+    "fuente": "https://cmsg.cl/contacto/"
+  }
+}

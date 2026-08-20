@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Catálogo de Plantas Químicas Industriales — Chile</title><style>
+  :root { --bg:#f8fafc; --ink:#071324; --accent:#2563eb; --accent-soft:#dbeafe;
+          --accent-softer:#eff6ff; --green:#059669; --green-soft:#d1fae5;
+          --amber:#d97706; --amber-soft:#fef3c7; --muted:#64748b; --border:#e2e8f0;
+          --radius-lg:20px; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'Inter',-apple-system,sans-serif; background:var(--bg); color:var(--ink);
+         line-height:1.55; -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:1120px; margin:0 auto; padding:40px 24px 80px; }
+  .kicker { display:inline-block; font-size:12px; font-weight:600; letter-spacing:.12em;
+            text-transform:uppercase; color:var(--accent); background:var(--accent-softer);
+            padding:6px 14px; border-radius:100px; }
+  h1 { font-size:32px; font-weight:700; margin-top:14px; letter-spacing:-.02em; }
+  .sub { color:var(--muted); font-size:15px; margin-top:6px; max-width:720px; }
+  .back { display:inline-flex; align-items:center; gap:6px; font-size:13px; font-weight:600;
+          color:var(--accent); text-decoration:none; margin-bottom:22px; }
+  .legend { display:flex; gap:10px; margin:24px 0 8px; flex-wrap:wrap; }
+  .legend span { display:inline-flex; align-items:center; gap:8px; font-size:13px; font-weight:500;
+                 color:var(--muted); background:#fff; border:1px solid var(--border);
+                 padding:8px 14px; border-radius:100px; }
+  .dot { width:10px; height:10px; border-radius:50%; }
+  .dot.c { background:var(--green); } .dot.s { background:var(--accent); } .dot.comp { background:var(--amber); } .dot.g { background:#94a3b8; }
+  .section-title { font-size:19px; font-weight:700; margin:30px 0 14px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); gap:14px; }
+  .card { background:#fff; border:1px solid var(--border); border-radius:var(--radius-lg);
+          padding:20px; box-shadow:0 1px 2px rgba(7,19,36,.04); }
+  a.card.ficha-link { text-decoration:none; color:inherit; display:flex; flex-direction:column;
+          transition:box-shadow .15s ease, transform .15s ease; }
+  a.card.ficha-link:hover { box-shadow:0 8px 24px rgba(7,19,36,.08); transform:translateY(-2px); }
+  .card-head { display:flex; align-items:center; justify-content:space-between; gap:8px; margin-bottom:4px; }
+  .card h3 { font-size:17px; font-weight:700; }
+  .badge { font-size:11px; font-weight:700; letter-spacing:.04em; padding:3px 10px;
+           border-radius:100px; white-space:nowrap; }
+  .region { font-size:12.5px; color:var(--muted); margin-bottom:10px; }
+  .meta { font-size:13px; margin-bottom:8px; } .meta div { margin-bottom:3px; } .meta b { color:var(--ink); }
+  .ing { font-size:12.5px; color:var(--accent); font-weight:600; }
+
+  .section { margin-top:30px; }
+  .section h2 { font-size:19px; font-weight:700; margin-bottom:12px; padding-bottom:8px;
+                border-bottom:2px solid var(--accent-soft); }
+  .kv { font-size:13.5px; } .kv div { margin-bottom:4px; } .kv b { color:var(--ink); }
+  .serv { margin:0 0 8px 18px; font-size:13.5px; } .serv li { margin-bottom:3px; }
+  .rolc { font-size:13.5px; color:var(--muted); }
+  .fuente { font-size:11.5px; color:var(--muted); margin-top:8px; padding-left:14px; }
+  .fuente a { color:var(--accent); text-decoration:none; word-break:break-all; }
+  .fuente a:hover { text-decoration:underline; }
+  .fuente::before { content:"↳ "; color:var(--accent); }
+  table { width:100%; border-collapse:collapse; font-size:12.5px; background:#fff;
+          border-radius:var(--radius-lg); overflow:hidden; border:1px solid var(--border); }
+  th { background:var(--accent-softer); color:var(--ink); font-weight:700; text-align:left;
+       padding:10px 12px; font-size:12px; }
+  td { padding:10px 12px; border-top:1px solid var(--border); vertical-align:top; }
+  td.src { font-size:11px; color:var(--muted); min-width:140px; }
+  td.src .fuente { margin-top:0; padding-left:0; }
+  .contacto { display:flex; align-items:center; justify-content:space-between; gap:10px;
+              margin-bottom:6px; font-size:13.5px; padding-bottom:8px; border-bottom:1px solid var(--border); }
+  .contacto:last-of-type { border-bottom:none; }
+  .contacto .nombre { font-weight:700; }
+  .rol { font-size:12px; color:var(--muted); }
+  .contacto .cta { display:flex; gap:6px; flex-shrink:0; flex-wrap:wrap; }
+  .chip { font-size:11px; font-weight:600; padding:4px 10px; border-radius:100px; text-decoration:none;
+          background:var(--accent-softer); color:var(--accent); white-space:nowrap; }
+  .chip:hover { background:var(--accent-soft); }
+  .chip.mail { background:var(--green-soft); color:var(--green); }
+  .tag { display:inline-block; font-size:11px; font-weight:700; padding:3px 10px; border-radius:100px; }
+  .tag-verde { background:var(--green-soft); color:var(--green); }
+  .tag-amb { background:var(--amber-soft); color:var(--amber); }
+  .tag-azul { background:var(--accent-softer); color:var(--accent); }
+  .tag-gris { background:#e2e8f0; color:#475569; }
+  .oportunidad { border-left:4px solid var(--amber); }
+  .oportunidad p { font-size:13.5px; color:var(--muted); margin-top:6px; }
+  footer { margin-top:40px; color:var(--muted); font-size:12px; text-align:center; }
+  .warn { background:var(--amber-soft); border:1px solid var(--amber); color:var(--amber);
+          border-radius:12px; padding:10px 14px; font-size:12.5px; margin-top:14px; }
+</style></head>
+<body><div class="wrap">
+<header><span class="kicker">Inteligencia comercial · Plantas químicas</span>
+<h1>Catálogo de Plantas Químicas Industriales — Chile</h1>
+<p class="sub">Plantas chilenas que fabrican compuestos químicos de proceso continuo (cobre/azufre, agroquímicos, químicos industriales, minería, celulosa). Cada ficha trae: quién es, qué hace, proyectos/clientes, tomadores de decisión técnicos y el ángulo CONECTA — todo con fuente verificable.</p></header>
+<div class="legend"><span><i class="dot g"></i>CLIENTE FINAL — planta de proceso que especifica/compra DCS + SCADA + instrumentación</span></div>
+<div class="section-title">Plantas (14)</div>
+<div class="grid">
+    <a class="card ficha-link" href="ficha_agrospec.html">
+      <div class="card-head"><h3>Agrospec S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Fitosanitarios y agroquímicos (cobre y azufre)</div>
+      <div class="meta"><div><b>Dotación:</b> 50–250 trabajadores (promedio histórico ~175)</div><div><b>Sede:</b> Camino El Milagro 257, Maipú, Santiago, Región Metropolitana</div></div>
+      <div class="ing">Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_anasac.html">
+      <div class="card-head"><h3>Anasac Chile S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Agroquímicos, fitosanitarios, sales minerales y sanidad ambiental</div>
+      <div class="meta"><div><b>Dotación:</b> 1.407 trabajadores (con subsidiarias, al 31-dic-2022)</div><div><b>Sede:</b> Casa matriz: Almirante Pastene 300, Providencia, Santiago. Plantas: Lampa y San Miguel (RM); sales minerales en San Carlos</div></div>
+      <div class="ing">Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_basf.html">
+      <div class="card-head"><h3>BASF Chile S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Química industrial multisector: agricultura (agro), superficies (coatings), minería (Mining Solutions) y materiales de performance</div>
+      <div class="meta"><div><b>Dotación:</b> no verificado</div><div><b>Sede:</b> Av. Carrascal 3851, Quinta Normal, Santiago. Planta productiva: Camino Quintero 201, Concón, Región de Valparaíso.</div></div>
+      <div class="ing">Planta productiva en Concón (dispersiones, resinas, saponinas) + operaciones de Mining Solutions → automatización de proceso, dosificación y SCADA</div>
+    </a>
+    <a class="card ficha-link" href="ficha_erco.html">
+      <div class="card-head"><h3>Comercial e Industrial ERCO (Chile) Limitada (ERCO Worldwide Chile)</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Clorato de sodio cristalino y tecnologías de dióxido de cloro para la industria de celulosa</div>
+      <div class="meta"><div><b>Dotación:</b> ≈ 30 trabajadores en planta Mininco</div><div><b>Sede:</b> Km 1 Camino Público Antiguo a Angol, Villa Mininco, Collipulli, Región de La Araucanía, Chile</div></div>
+      <div class="ing">Planta electroquímica continua de clorato de sodio → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_san_geronimo_lambert.html">
+      <div class="card-head"><h3>Compañía Minera San Gerónimo</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Minería y química: sulfato de cobre pentahidratado y productos agrícolas de cobre</div>
+      <div class="meta"><div><b>Dotación:</b> ~634 empleados</div><div><b>Sede:</b> Casa matriz: Av. Talca 101, Barrio Industrial, Coquimbo. Planta Lambert / San Lorenzo: quebrada El Romero, 22 km al noroeste de La Serena</div></div>
+      <div class="ing">Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_eka.html">
+      <div class="card-head"><h3>Eka Chile S.A. (Eka Chemicals Chile)</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Clorato de sodio, dióxido de cloro in situ y peróxido de hidrógeno para blanqueo de celulosa</div>
+      <div class="meta"><div><b>Dotación:</b> no verificado</div><div><b>Sede:</b> Av. Rocoto 2911, Talcahuano, Región del Biobío, Chile</div></div>
+      <div class="ing">Planta electroquímica continua (electrólisis de salmuera) + planta de peróxido → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_noracid.html">
+      <div class="card-head"><h3>Noracid S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Producción de ácido sulfúrico por combustión de azufre + generación de energía eléctrica residual</div>
+      <div class="meta"><div><b>Dotación:</b> Más de 80 colaboradores directos</div><div><b>Sede:</b> Planta: Av. Tercera Industrial 850, Mejillones, Antofagasta. Oficina Antofagasta: Av. Balmaceda 2472, Piso 7. Oficina Santiago: Av. El Bosque Norte 500, Las Condes.</div></div>
+      <div class="ing">Planta de proceso químico continuo (combustión de azufre → SO₂ → SO₃ → absorción) de alta criticidad → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_oxychile.html">
+      <div class="card-head"><h3>Occidental Chemical Chile Limitada (OxyChile)</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Cloro-álcali: soda cáustica, cloro, hipoclorito de sodio, ácido clorhídrico, cloruro férrico, cloruro de calcio e hidrógeno</div>
+      <div class="meta"><div><b>Dotación:</b> no verificado</div><div><b>Sede:</b> Oficina Santiago: Bucarest 150, Of. 1601, Providencia. Planta: Av. Rocoto 2625, Sector Industrial CAP, Talcahuano, Región del Biobío.</div></div>
+      <div class="ing">Planta cloro-álcali (electrólisis de salmuera) de proceso continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_orica.html">
+      <div class="card-head"><h3>Orica Chile S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Explosivos y químicos para minería: ANFO, emulsiones, detonadores, cianuro de sodio, reactivos y soluciones digitales de voladura</div>
+      <div class="meta"><div><b>Dotación:</b> no verificado</div><div><b>Sede:</b> Av. Costanera Sur 2730, Piso 3-4, Las Condes, Santiago. Plantas: Mejillones (ANFO), Nudo Uribe (emulsión), La Portada (detonadores), Antofagasta.</div></div>
+      <div class="ing">Plantas de manufactura (ANFO, emulsión, detonadores) de proceso continuo con exigencia ATEX → DCS + instrumentación + SCADA y trazabilidad de lotes</div>
+    </a>
+    <a class="card ficha-link" href="ficha_oxiquim.html">
+      <div class="card-head"><h3>Oxiquim S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Comercialización y distribución de químicos industriales y petroquímicos; operación de terminales marítimos</div>
+      <div class="meta"><div><b>Dotación:</b> no verificado</div><div><b>Sede:</b> Av. Santa María 2050, Providencia, Santiago (Casilla Postal 9158). Terminales: Quintero (Camino Costero 271, El Bato), Talcahuano, Mejillones, Escuadrón.</div></div>
+      <div class="ing">Red de terminales marítimos (Quintero, Talcahuano, Mejillones) con tanques, brazos de carga y transferencia de custodia → automatización de terminal (SCADA + instrumentación de nivel/flujo) y modernización de plantas de mezcla</div>
+    </a>
+    <a class="card ficha-link" href="ficha_quimetal.html">
+      <div class="card-head"><h3>Quimetal Industrial S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Compuestos químicos inorgánicos a base de cobre y azufre para agricultura, minería y celulosa</div>
+      <div class="meta"><div><b>Dotación:</b> 201-500 empleados (según LinkedIn)</div><div><b>Sede:</b> Los Yacimientos 1301, Maipú, Santiago, Región Metropolitana, Chile</div></div>
+      <div class="ing">Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_quimica_del_sur.html">
+      <div class="card-head"><h3>Química del Sur y Cía. Ltda.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Sulfatos cristalizados (magnesio, fierro, zinc) y químicos inorgánicos</div>
+      <div class="meta"><div><b>Dotación:</b> ~150 trabajadores</div><div><b>Sede:</b> Casa matriz: Av. El Taqueral 493, Lampa, Región Metropolitana. Sucursales: Puerto Montt, Coronel y Antofagasta</div></div>
+      <div class="ing">Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a>
+    <a class="card ficha-link" href="ficha_snf.html">
+      <div class="card-head"><h3>SNF Chile S.A.</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Polímeros solubles en agua (poliacrilamida): floculantes y coagulantes para minería y tratamiento de aguas</div>
+      <div class="meta"><div><b>Dotación:</b> 11–50 empleados (rango LinkedIn)</div><div><b>Sede:</b> Calle Nueva 1661-A, Condominio El Parronal, Huechuraba, Santiago</div></div>
+      <div class="ing">Planta de polímeros/floculantes para minería (formulación, blending y dosificación) → automatización de dosificación + SCADA; filial de grupo francés con estándares globales de proceso</div>
+    </a>
+    <a class="card ficha-link" href="ficha_sqm.html">
+      <div class="card-head"><h3>Sociedad Química y Minera de Chile S.A. (SQM)</h3><span class="badge tag-gris">CLIENTE FINAL</span></div>
+      <div class="region">Químicos industriales, nutrición vegetal, fertilizantes, yodo y litio</div>
+      <div class="meta"><div><b>Dotación:</b> 8.344 empleados permanentes (2024; 1.086 fuera de Chile)</div><div><b>Sede:</b> El Trovador 4285, piso 6, Las Condes, Santiago. Plantas norte: Pampa Blanca, María Elena, Pedro de Valdivia, Nueva Victoria, Tocopilla, Coya Sur</div></div>
+      <div class="ing">Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)</div>
+    </a></div>
+<div class="warn">⚠ Datos en investigación con fuente pública verificable. Los contactos marcados "formato inferido" deben confirmarse antes de uso. Nada se inventa: campo sin fuente queda vacío.</div>
+<footer>CONECTA Ingeniería · Catálogo de plantas químicas · agosto 2026</footer>
+</div></body></html>

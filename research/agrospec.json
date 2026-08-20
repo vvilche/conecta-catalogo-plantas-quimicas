@@ -1,0 +1,85 @@
+{
+  "empresa": "Agrospec S.A.",
+  "slug": "agrospec",
+  "rubro": "Fitosanitarios y agroquímicos (cobre y azufre)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Formulador y fabricante chileno de productos fitosanitarios, especializado originalmente en productos a base de cobre (sulfato, oxicloruro, óxidos, hidróxido de cobre) y azufre; con línea de especialidades y bioestimulantes.",
+    "fundada": "1986",
+    "dotacion": "50–250 trabajadores (promedio histórico ~175)",
+    "facturacion": "no verificada (estimado UF 650.000–1.700.000 según RedConecta, con advertencia de imprecisión)",
+    "matriz_grupo": "no verificado",
+    "rut": "79.670.620-1",
+    "sede": "Camino El Milagro 257, Maipú, Santiago, Región Metropolitana",
+    "fuentes": [
+      "https://www.agrospec.cl/trayectoria/",
+      "https://registros19862.gob.cl/institucion/79670620/ficha",
+      "https://www.linkedin.com/company/agrospec-s-a-/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Fungicidas, insecticidas, acaricidas, herbicidas y reguladores de crecimiento",
+      "Productos a base de cobre (sulfato, oxicloruro, óxidos, hidróxido) y azufre",
+      "Línea Nutra Especialidades: bioestimulantes, enmiendas y fertilizantes de suelo y foliares",
+      "Ensayos de eficacia en campo, validaciones técnicas, curvas de residuos y soporte técnico a agricultores"
+    ],
+    "rol_cadena": "Formulador y fabricante de fitosanitarios y especialidades agrícolas",
+    "fuentes": [
+      "https://www.agrospec.cl/",
+      "https://www.agrospec.cl/trayectoria/",
+      "https://www.agrospec.cl/soporte-tecnico/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Producto Citrus SL — fungicida a base de extractos de cítricos (etiqueta comercial)",
+      "cliente": "",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://www.agrospec.cl/wp-content/uploads/2023/11/ETI_CITRUS-SL_042026.pdf"
+    },
+    {
+      "proyecto": "Registros SAG de plaguicidas (Cianamida Hidrogenada 50 SL, Acetamiprid 70 WP, entre otros)",
+      "cliente": "Servicio Agrícola y Ganadero (SAG)",
+      "ubicacion": "Chile",
+      "monto": "",
+      "fuente": "https://websag.azurewebsites.net/sites/default/files/3766_2016.pdf"
+    },
+    {
+      "proyecto": "Exportación y filial en Argentina; envíos a Alemania, Ecuador y Colombia",
+      "cliente": "",
+      "ubicacion": "Internacional",
+      "monto": "",
+      "fuente": "https://www.linkedin.com/company/agrospec-s-a-/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Mauricio Zwanzger Vuskovic",
+      "cargo": "Gerente General",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mauricio%20Zwanzger%20Agrospec",
+      "fuente": "https://websag.azurewebsites.net/sites/default/files/3766_2016.pdf"
+    },
+    {
+      "nombre": "Patricio Osorio Concha",
+      "cargo": "Jefe de Mantención y Proyectos",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/patricio-osorio-concha-03617546",
+      "fuente": "https://cl.linkedin.com/in/patricio-osorio-concha-03617546"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Camino El Milagro 257, Maipú, Santiago, Región Metropolitana",
+    "telefono": "+56 2 2836 8000",
+    "correo": "prevencionymedioambiente@agrospec.cl (hojas de seguridad oficiales; correo comercial genérico no publicado)",
+    "web": "https://www.agrospec.cl",
+    "fuente": "https://www.agrospec.cl/wp-content/uploads/2023/11/ETI_CITRUS-SL_042026.pdf"
+  }
+}

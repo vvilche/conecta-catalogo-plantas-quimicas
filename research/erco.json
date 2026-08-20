@@ -1,0 +1,61 @@
+{
+  "empresa": "Comercial e Industrial ERCO (Chile) Limitada (ERCO Worldwide Chile)",
+  "slug": "erco",
+  "rubro": "Clorato de sodio cristalino y tecnologías de dióxido de cloro para la industria de celulosa",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta electroquímica continua de clorato de sodio → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Filial chilena de ERCO Worldwide (grupo canadiense con sede en Toronto). Produce clorato de sodio cristalino y tecnologías de generación de dióxido de cloro para el blanqueo de celulosa en su planta de Mininco, Collipulli, Región de La Araucanía.",
+    "fundada": "Inicio de actividades en Chile: 30-09-2004 (≈ 21 años de operación)",
+    "dotacion": "≈ 30 trabajadores en planta Mininco",
+    "facturacion": "no verificado",
+    "matriz_grupo": "ERCO Worldwide (matriz canadiense, Toronto)",
+    "rut": "76.163.730-4",
+    "sede": "Km 1 Camino Público Antiguo a Angol, Villa Mininco, Collipulli, Región de La Araucanía, Chile",
+    "fuentes": [
+      "https://www.canchamchile.cl/2024/02/15/erco-chile/",
+      "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/8660",
+      "https://www.ercoworldwide.com/locations/?locale=es",
+      "https://chilepymes.com/info/comercial-e-industrial-erco-chile-limitada-A5F1A9EC2CA869DF"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Producción de clorato de sodio cristalino (NaClO₃)",
+      "Tecnologías de generación de dióxido de cloro (ClO₂) para blanqueo de celulosa",
+      "Suministro de insumos de blanqueo a la industria de celulosa"
+    ],
+    "rol_cadena": "Productor químico para la cadena de celulosa (blanqueo); cliente final de DCS, instrumentación y SCADA.",
+    "fuentes": [
+      "https://www.canchamchile.cl/2024/02/15/erco-chile/",
+      "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/8660"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Suministro de clorato de sodio a planta de celulosa CMPC",
+      "cliente": "CMPC Planta Pacífico (Mininco)",
+      "ubicacion": "Mininco, Collipulli, Región de La Araucanía",
+      "monto": "no verificado",
+      "fuente": "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=f0%2F09%2F4a8d51aa6d6700e2336fc7578ce564bdc795"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Luis Emiliano Canihuante Roco",
+      "cargo": "Gerente de Planta Mininco (clorato de sodio)",
+      "tipo": "gerente_planta",
+      "correo": "lcanihuante@ercoworldwide.com",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/luis-canihuante-224921397",
+      "fuente": "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=f0%2F09%2F4a8d51aa6d6700e2336fc7578ce564bdc795"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Km 1 Camino Público Antiguo a Angol, Villa Mininco, Collipulli, Región de La Araucanía, Chile",
+    "telefono": "+56 2 2597 7200",
+    "correo": "lcanihuante@ercoworldwide.com (Gerente de Planta; correo corporativo general no publicado)",
+    "web": "https://www.ercoworldwide.com",
+    "fuente": "https://www.ercoworldwide.com/locations/?locale=es"
+  }
+}

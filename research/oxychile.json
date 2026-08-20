@@ -1,0 +1,72 @@
+{
+  "empresa": "Occidental Chemical Chile Limitada (OxyChile)",
+  "slug": "oxychile",
+  "rubro": "Cloro-álcali: soda cáustica, cloro, hipoclorito de sodio, ácido clorhídrico, cloruro férrico, cloruro de calcio e hidrógeno",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta cloro-álcali (electrólisis de salmuera) de proceso continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Filial chilena de OxyChem (Occidental Chemical Corporation). Produce cloro-álcali por electrólisis en su planta de Talcahuano (Biobío) y abastece a la industria minera, de celulosa/papel y tratamiento de aguas.",
+    "fundada": "Inicio de actividades 1993; origen 1978 (Diamond Shamrock sobre activos de la estatal Petroquímica Chilena)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "OxyChem / Occidental Chemical Corporation (Occidental Petroleum, EE.UU.)",
+    "rut": "93.797.000-5",
+    "sede": "Oficina Santiago: Bucarest 150, Of. 1601, Providencia. Planta: Av. Rocoto 2625, Sector Industrial CAP, Talcahuano, Región del Biobío.",
+    "fuentes": [
+      "https://www.portalchile.org/empresa/occidental-chemical-chile-limitada-93797000",
+      "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/8687",
+      "https://acenor.cl/occidental-chemical-chile-limitada/",
+      "https://www.oxy.com/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Cloro líquido (electrólisis, enfriado, lavado, secado y licuado)",
+      "Soda cáustica (hidróxido de sodio ~32%, grado membrana)",
+      "Hipoclorito de sodio (14–16%)",
+      "Ácido clorhídrico (~32%)",
+      "Cloruro férrico y cloruro de calcio (~35%)",
+      "Hidrógeno (coproducto de electrólisis)"
+    ],
+    "rol_cadena": "Productor de insumos químicos base para minería, celulosa/papel, siderurgia, tratamiento de aguas, alimentos y forestal.",
+    "fuentes": [
+      "https://www.industriaminera.cl/occidental-chemical-chile-ltda/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Abastecimiento de cloro, soda cáustica y derivados a la industria de celulosa",
+      "cliente": "Celulosa Arauco y CMPC S.A. (clientes históricos)",
+      "ubicacion": "Región del Biobío",
+      "monto": "",
+      "fuente": "https://www.gerencia.cl/proveedores/occidental-chemical-simplificando-el-pago-de-proveedores-con-mkr-systems/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Joaquín Adlerstein Lapostol",
+      "cargo": "Gerente de Planta Talcahuano",
+      "tipo": "gerente_proyectos",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/joaquin-adlerstein-lapostol-b5a92361",
+      "fuente": "https://cl.linkedin.com/in/joaquin-adlerstein-lapostol-b5a92361"
+    },
+    {
+      "nombre": "Andrés Weinberger",
+      "cargo": "Gerente General OxyChem Chile",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andr%C3%A9s%20Weinberger%20OxyChile",
+      "fuente": "https://www.cpcbiobio.cl/2022/11/oxychile-planta-talcahuano-recibio-visita-de-directorio-asiquim/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Oficina Santiago: Bucarest 150, Of. 1601, Providencia. Planta: Av. Rocoto 2625, Sector Industrial CAP, Talcahuano, Biobío.",
+    "telefono": "+56 2 2718 5000 (Santiago) · +56 41 256 5500 (planta Talcahuano)",
+    "correo": "",
+    "web": "https://www.oxychem.com",
+    "fuente": "https://www.oxy.com/"
+  }
+}

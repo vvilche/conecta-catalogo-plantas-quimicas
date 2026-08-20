@@ -1,0 +1,96 @@
+{
+  "empresa": "Quimetal Industrial S.A.",
+  "slug": "quimetal",
+  "rubro": "Compuestos químicos inorgánicos a base de cobre y azufre para agricultura, minería y celulosa",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Fabricante chileno de compuestos químicos inorgánicos a base de cobre y azufre (fungicidas, fertilizantes líquidos, productos industriales) para agricultura, minería y celulosa. 75 años de experiencia, exporta a más de 60 países.",
+    "fundada": "1951",
+    "dotacion": "201-500 empleados (según LinkedIn)",
+    "facturacion": "No verificado (sin facturación consolidada pública). Referencia de comercio exterior: exportaciones FOB 2020-2024 ≈ US$ 190,8M e importaciones ≈ US$ 49,7M (Veritrade).",
+    "matriz_grupo": "no verificado (empresa chilena independiente)",
+    "rut": "87.001.500-3",
+    "sede": "Los Yacimientos 1301, Maipú, Santiago, Región Metropolitana, Chile",
+    "fuentes": [
+      "https://www.quimetal.cl/nosotros/",
+      "https://www.quimetal.cl/contacto/",
+      "https://snifa.sma.gob.cl/v2/UnidadFiscalizable/Ficha/10715",
+      "https://cl.linkedin.com/company/quimetal-industrial-s-a-"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Fabricación de fungicidas y productos agrícolas a base de cobre y azufre",
+      "Producción de fertilizantes líquidos",
+      "Productos químicos industriales (cobre, azufre, dióxido de azufre, bisulfito de sodio)",
+      "Exportación a más de 60 países (agro, minería, celulosa)"
+    ],
+    "rol_cadena": "Productor químico (fabricante) con plantas de proceso continuo/batch; cliente final para DCS, instrumentación y SCADA.",
+    "fuentes": [
+      "https://www.quimetal.cl/nosotros/",
+      "https://www.quimetal.cl/en/about-us/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta de fabricación de dióxido de azufre (SO₂) y bisulfito de sodio (inaugurada 2021)",
+      "cliente": "Quimetal Industrial (inversión propia)",
+      "ubicacion": "Planta Lonquén, Maipú, Región Metropolitana",
+      "monto": "no verificado",
+      "fuente": "https://www.quimetal.cl/nosotros/"
+    },
+    {
+      "proyecto": "Suministro de compuestos de cobre a multinacionales (exportación)",
+      "cliente": "BASF y Nufarm",
+      "ubicacion": "Internacional (exportación)",
+      "monto": "no verificado",
+      "fuente": "https://repositorio.cepal.org/bitstream/handle/11362/42063/S1700597_es.pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Alfredo Claro E.",
+      "cargo": "Gerente General",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/alfredo-claro-282a93133",
+      "fuente": "https://www.quimetal.cl/nuestros-ejecutivos/"
+    },
+    {
+      "nombre": "Gerardo Godoy J.",
+      "cargo": "Gerente de Ingeniería y Mantenimiento",
+      "tipo": "jefe_ingenieria",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/gerardo-godoy-jarpa-ba8b0974",
+      "fuente": "https://www.quimetal.cl/nuestros-ejecutivos/"
+    },
+    {
+      "nombre": "Rodrigo Vivallos S.",
+      "cargo": "Gerente de Operaciones",
+      "tipo": "gerente_proyectos",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rodrigo-vivallos-s%C3%A1nchez-a6a68a34",
+      "fuente": "https://www.quimetal.cl/nuestros-ejecutivos/"
+    },
+    {
+      "nombre": "Marcelo Quinteros S.",
+      "cargo": "Gerente Comercial",
+      "tipo": "abastecimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/marcelo-quinteros",
+      "fuente": "https://www.quimetal.cl/nuestros-ejecutivos/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Los Yacimientos 1301, Maipú, Santiago, Chile",
+    "telefono": "+56 2 2381 7000",
+    "correo": "comercial@quimetal.cl",
+    "web": "https://www.quimetal.cl",
+    "fuente": "https://www.quimetal.cl/contacto/"
+  }
+}

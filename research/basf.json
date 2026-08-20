@@ -1,0 +1,61 @@
+{
+  "empresa": "BASF Chile S.A.",
+  "slug": "basf",
+  "rubro": "Química industrial multisector: agricultura (agro), superficies (coatings), minería (Mining Solutions) y materiales de performance",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta productiva en Concón (dispersiones, resinas, saponinas) + operaciones de Mining Solutions → automatización de proceso, dosificación y SCADA",
+  "quien_es": {
+    "descripcion": "Filial chilena de BASF SE (Alemania), con planta productiva en Concón (Región de Valparaíso) y oficinas corporativas en Santiago. Portafolio químico para agricultura, superficies, minería y manufactura.",
+    "fundada": "1952 (registro comercial local; año exacto de constitución no verificado)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "BASF SE (Alemania)",
+    "rut": "80.043.600-1",
+    "sede": "Av. Carrascal 3851, Quinta Normal, Santiago. Planta productiva: Camino Quintero 201, Concón, Región de Valparaíso.",
+    "fuentes": [
+      "https://registros19862.gob.cl/institucion/80043600/ficha",
+      "https://www.basf.com/cl/es/who-we-are-new/organizacion/localidades-chile"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Soluciones para agricultura (agro)",
+      "Coatings y superficies",
+      "Mining Solutions (reactivos de flotación e hidrometalurgia)",
+      "Materiales de performance y químicos industriales",
+      "Producción local de dispersiones, resinas y saponinas (planta Concón)"
+    ],
+    "rol_cadena": "Proveedor de química industrial y soluciones para minería, agricultura y manufactura.",
+    "fuentes": [
+      "https://www.basf.com/cl/es/who-we-are-new/organizacion/localidades-chile",
+      "https://www.proveminer.com/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta productiva de dispersiones, resinas y saponinas",
+      "cliente": "BASF Chile (producción propia)",
+      "ubicacion": "Camino Quintero 201, Concón, Región de Valparaíso",
+      "monto": "",
+      "fuente": "https://www.basf.com/cl/es/who-we-are-new/organizacion/localidades-chile"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Felipe Schneider Bornemann",
+      "cargo": "Gerente General BASF Chile",
+      "tipo": "gerente_general",
+      "correo": "felipe.schneider@basf.com",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/felipe-schneider-aa731814",
+      "fuente": "https://snifa.sma.gob.cl/General/Descargar/1104398751"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Carrascal 3851, Quinta Normal, Santiago",
+    "telefono": "+56 2 2640 7000",
+    "correo": "",
+    "web": "https://www.basf.com/cl",
+    "fuente": "https://www.basf.com/cl/es/who-we-are-new/organizacion/localidades-chile"
+  }
+}

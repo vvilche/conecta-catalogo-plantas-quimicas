@@ -1,0 +1,86 @@
+{
+  "empresa": "Noracid S.A.",
+  "slug": "noracid",
+  "rubro": "Producción de ácido sulfúrico por combustión de azufre + generación de energía eléctrica residual",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de proceso químico continuo (combustión de azufre → SO₂ → SO₃ → absorción) de alta criticidad → DCS + instrumentación + SCADA (SUPCON ECS-700)",
+  "quien_es": {
+    "descripcion": "Productor chileno de ácido sulfúrico a gran escala. Opera desde 2012 la planta de Mejillones (Antofagasta), basada en combustión de azufre refinado, con generación de energía eléctrica por vapor residual inyectada al SEN.",
+    "fundada": "2007 (constituida por Ultramar y Belfi; planta operando desde 2012)",
+    "dotacion": "Más de 80 colaboradores directos",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Fundada por Ultramar y Belfi (2007)",
+    "rut": "76.858.530-K",
+    "sede": "Planta: Av. Tercera Industrial 850, Mejillones, Antofagasta. Oficina Antofagasta: Av. Balmaceda 2472, Piso 7. Oficina Santiago: Av. El Bosque Norte 500, Las Condes.",
+    "fuentes": [
+      "https://noracid.cl/sobre-nosotros/",
+      "https://noracid.cl/empresa/",
+      "https://noracid.cl/contacto/",
+      "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=da%2F08%2F53a1c193bdb3a21752860c08ed7343532aae"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Ácido sulfúrico 98,5% por combustión de azufre refinado (SO₂ → SO₃ → absorción en torres)",
+      "Generación de energía eléctrica residual (~145.000 MWh/año inyectados al SEN)",
+      "Abastecimiento de ácido sulfúrico a la gran minería de cobre del norte de Chile"
+    ],
+    "rol_cadena": "Productor de insumo crítico (ácido sulfúrico) para lixiviación de cobre en la gran minería de Antofagasta.",
+    "fuentes": [
+      "https://noracid.cl/empresa/",
+      "https://noracid.cl/sobre-nosotros/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta de ácido sulfúrico de Mejillones (capacidad ~720.000 t/año; consume ~240.000 t/año de azufre)",
+      "cliente": "Gran minería de cobre del norte (BHP/Escondida, Antofagasta Minerals/Centinela, Barrick/Zaldívar, Freeport/El Abra)",
+      "ubicacion": "Mejillones, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://noracid.cl/empresa/"
+    },
+    {
+      "proyecto": "2º Mantenimiento Mayor de la planta de ácido sulfúrico (2016)",
+      "cliente": "Noracid (inversión propia)",
+      "ubicacion": "Mejillones, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://www.h2so4.com.br/downloads/RoundTable-Chile-2016/MESA%20REDONDA%202016%20-%20NORACID%20-%202%C2%BA%20Mantenimiento%20Mayor%20Planta%20de%20%C3%81cido%20Sulf%C3%BArico%20de%20Mejillones.pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Werner Wilhelm Bruno Watznauer Weller",
+      "cargo": "Gerente General",
+      "tipo": "gerente_general",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/werner-watznauer-3b49167",
+      "fuente": "https://noracid.cl/sobre-nosotros/"
+    },
+    {
+      "nombre": "Cristián Roempler M.",
+      "cargo": "Gerente de Operaciones",
+      "tipo": "gerente_proyectos",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristi%C3%A1n%20Roempler%20Noracid",
+      "fuente": "https://noracid.cl/equipo/"
+    },
+    {
+      "nombre": "Sergio Gatica B.",
+      "cargo": "Jefe de Mantención Mecánica, Planeación y Confiabilidad",
+      "tipo": "jefe_mantenimiento",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/sergio-gatica",
+      "fuente": "https://cl.linkedin.com/in/sergio-gatica"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Planta: Av. Tercera Industrial 850, Mejillones, Antofagasta. Oficina Antofagasta: Av. Balmaceda 2472, Piso 7. Oficina Santiago: Av. El Bosque Norte 500, Las Condes.",
+    "telefono": "+56 55 244 8121 · +56 55 255 4479 · +56 55 255 4480",
+    "correo": "",
+    "web": "https://noracid.cl",
+    "fuente": "https://noracid.cl/contacto/"
+  }
+}
